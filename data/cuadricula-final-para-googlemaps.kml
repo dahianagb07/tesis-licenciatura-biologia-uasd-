@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="cuadricula_final_para_googlemaps" id="cuadricula_final_para_googlemaps">
+	<SimpleField name="Name" type="string"></SimpleField>
+	<SimpleField name="Description" type="string"></SimpleField>
+	<SimpleField name="fid" type="float"></SimpleField>
+	<SimpleField name="left" type="float"></SimpleField>
+	<SimpleField name="top" type="float"></SimpleField>
+	<SimpleField name="right" type="float"></SimpleField>
+	<SimpleField name="bottom" type="float"></SimpleField>
+	<SimpleField name="ENLACE" type="int"></SimpleField>
+	<SimpleField name="a0_square_meters" type="float"></SimpleField>
+	<SimpleField name="AREASQM2" type="float"></SimpleField>
+	<SimpleField name="AREASQM_PCT" type="float"></SimpleField>
+</Schema>
+<Folder><name>cuadricula_final_para_googlemaps</name>
+  <Placemark>
+	<name>1</name>
+	<description>1</description>
+	<Style><LineStyle><color>FF0000ff</color><width>2.83464</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#cuadricula_final_para_googlemaps">
+		<SimpleData name="fid">1</SimpleData>
+		<SimpleData name="left">402697.233155284</SimpleData>
+		<SimpleData name="top">2042189.625</SimpleData>
+		<SimpleData name="right">402783.835695662</SimpleData>
+		<SimpleData name="bottom">2042114.625</SimpleData>
+		<SimpleData name="ENLACE">1</SimpleData>
+		<SimpleData name="a0_square_meters">4871.39289628901</SimpleData>
+		<SimpleData name="AREASQM2">2158.69602919929</SimpleData>
+		<SimpleData name="AREASQM_PCT">44.3137327486717</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-69.9215686753229,18.4674552543663 -69.9213654477338,18.4677951396241 -69.9209553733489,18.4677971326961 -69.9207485281629,18.4674592404321 -69.9209517566353,18.4671193557881 -69.9213618294104,18.4671173627944 -69.9215686753229,18.4674552543663</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2</name>
+	<description>2</description>
+	<Style><LineStyle><color>FF0000ff</color><width>2.83464</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#cuadricula_final_para_googlemaps">
+		<SimpleData name="fid">2</SimpleData>
+		<SimpleData name="left">402697.233155284</SimpleData>
+		<SimpleData name="top">2042119.625</SimpleData>
+		<SimpleData name="right">402783.835695662</SimpleData>
+		<SimpleData name="bottom">2042044.625</SimpleData>
+		<SimpleData name="ENLACE">2</SimpleData>
+		<SimpleData name="a0_square_meters">4871.39289628901</SimpleData>
+		<SimpleData name="AREASQM2">4182.27730339766</SimpleData>
+		<SimpleData name="AREASQM_PCT">85.8538285134768</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-69.921565297538,18.4668226626737 -69.9213620706271,18.4671625479179 -69.9209519977446,18.4671645409168 -69.920745153383,18.4668266485934 -69.9209483811771,18.466486763963 -69.9213584524498,18.4664847710423 -69.921565297538,18.4668226626737</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>3</name>
+	<description>3</description>
+	<Style><LineStyle><color>FF0000ff</color><width>2.83464</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#cuadricula_final_para_googlemaps">
+		<SimpleData name="fid">3</SimpleData>
+		<SimpleData name="left">402697.233155284</SimpleData>
+		<SimpleData name="top">2042049.625</SimpleData>
+		<SimpleData name="right">402783.835695662</SimpleData>
+		<SimpleData name="bottom">2041974.625</SimpleData>
+		<SimpleData name="ENLACE">3</SimpleData>
+		<SimpleData name="a0_square_meters">4871.39289628901</SimpleData>
+		<SimpleData name="AREASQM2">2485.22102660313</SimpleData>
+		<SimpleData name="AREASQM_PCT">51.0166410206074</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-69.9215619198895,18.4661900709384 -69.9213586936567,18.4665299561689 -69.9209486222768,18.4665319490948 -69.9207417787394,18.4661940567119 -69.9209450058553,18.4658541720951 -69.9213550756255,18.4658521792475 -69.9215619198895,18.4661900709384</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>4</name>
+	<description>4</description>
+	<Style><LineStyle><color>FF0000ff</color><width>2.83464</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#cuadricula_final_para_googlemaps">
+		<SimpleData name="fid">4</SimpleData>
+		<SimpleData name="left">402757.185060568</SimpleData>
+		<SimpleData name="top">2042157.125</SimpleData>
+		<SimpleData name="right">402843.787600946</SimpleData>
+		<SimpleData name="bottom">2042082.125</SimpleData>
+		<SimpleData name="ENLACE">4</SimpleData>
+		<SimpleData name="a0_square_meters">4871.39289628807</SimpleData>
+		<SimpleData name="AREASQM2">4871.39289628807</SimpleData>
+		<SimpleData name="AREASQM_PCT">100</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-69.9209993488851,18.4671643108304 -69.9207961204603,18.4675041955221 -69.9203860467007,18.4675061873321 -69.9201792029759,18.4671682943723 -69.9203824322838,18.4668284102945 -69.9207925044336,18.4668264185627 -69.9209993488851,18.4671643108304</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>5</name>
+	<description>5</description>
+	<Style><LineStyle><color>FF0000ff</color><width>2.83464</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#cuadricula_final_para_googlemaps">
+		<SimpleData name="fid">5</SimpleData>
+		<SimpleData name="left">402757.185060568</SimpleData>
+		<SimpleData name="top">2042087.125</SimpleData>
+		<SimpleData name="right">402843.787600946</SimpleData>
+		<SimpleData name="bottom">2042012.125</SimpleData>
+		<SimpleData name="ENLACE">5</SimpleData>
+		<SimpleData name="a0_square_meters">4871.39289628807</SimpleData>
+		<SimpleData name="AREASQM2">4871.39289628807</SimpleData>
+		<SimpleData name="AREASQM_PCT">100</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-69.9209959732438,18.4665317190168 -69.9207927454971,18.4668716036948 -69.9203826732401,18.4668735954319 -69.9201758303395,18.4665357024127 -69.9203790589692,18.4661958183485 -69.9207891296165,18.4661938266897 -69.9209959732438,18.4665317190168</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>6</name>
+	<description>6</description>
+	<Style><LineStyle><color>FF0000ff</color><width>2.83464</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#cuadricula_final_para_googlemaps">
+		<SimpleData name="fid">6</SimpleData>
+		<SimpleData name="left">402757.185060568</SimpleData>
+		<SimpleData name="top">2042017.125</SimpleData>
+		<SimpleData name="right">402843.787600946</SimpleData>
+		<SimpleData name="bottom">2041942.125</SimpleData>
+		<SimpleData name="ENLACE">6</SimpleData>
+		<SimpleData name="a0_square_meters">4871.39289628807</SimpleData>
+		<SimpleData name="AREASQM2">4871.39289628807</SimpleData>
+		<SimpleData name="AREASQM_PCT">100</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-69.9209925977387,18.4658991271605 -69.9207893706703,18.4662390118249 -69.9203792999157,18.4662410034889 -69.9201724578393,18.4659031104103 -69.9203756857908,18.4655632263597 -69.9207857549357,18.4655612347739 -69.9209925977387,18.4658991271605</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>7</name>
+	<description>7</description>
+	<Style><LineStyle><color>FF0000ff</color><width>2.83464</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#cuadricula_final_para_googlemaps">
+		<SimpleData name="fid">7</SimpleData>
+		<SimpleData name="left">402757.185060568</SimpleData>
+		<SimpleData name="top">2041947.125</SimpleData>
+		<SimpleData name="right">402843.787600946</SimpleData>
+		<SimpleData name="bottom">2041872.125</SimpleData>
+		<SimpleData name="ENLACE">7</SimpleData>
+		<SimpleData name="a0_square_meters">4871.39289628807</SimpleData>
+		<SimpleData name="AREASQM2">3710.64337680303</SimpleData>
+		<SimpleData name="AREASQM_PCT">76.1721227542635</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-69.9209892223701,18.4652665352613 -69.9207859959798,18.4656064199121 -69.9203759267276,18.4656084115031 -69.9201690854753,18.4652705183651 -69.9203723127486,18.4649306343281 -69.9207823803912,18.4649286428153 -69.9209892223701,18.4652665352613</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>8</name>
+	<description>8</description>
+	<Style><LineStyle><color>FF0000ff</color><width>2.83464</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#cuadricula_final_para_googlemaps">
+		<SimpleData name="fid">8</SimpleData>
+		<SimpleData name="left">402817.136965851</SimpleData>
+		<SimpleData name="top">2042189.625</SimpleData>
+		<SimpleData name="right">402903.73950623</SimpleData>
+		<SimpleData name="bottom">2042114.625</SimpleData>
+		<SimpleData name="ENLACE">8</SimpleData>
+		<SimpleData name="a0_square_meters">4871.39289628807</SimpleData>
+		<SimpleData name="AREASQM2">4871.39289628807</SimpleData>
+		<SimpleData name="AREASQM_PCT">100</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-69.9204331569641,18.4674607722493 -69.9202299270738,18.4678006563874 -69.9198198525445,18.4678026470033 -69.9196130095153,18.4674647534029 -69.9198162402887,18.4671248698787 -69.9202263132082,18.467122879341 -69.9204331569641,18.4674607722493</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>9</name>
+	<description>9</description>
+	<Style><LineStyle><color>FF0000ff</color><width>2.83464</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#cuadricula_final_para_googlemaps">
+		<SimpleData name="fid">9</SimpleData>
+		<SimpleData name="left">402817.136965851</SimpleData>
+		<SimpleData name="top">2042119.625</SimpleData>
+		<SimpleData name="right">402903.73950623</SimpleData>
+		<SimpleData name="bottom">2042044.625</SimpleData>
+		<SimpleData name="ENLACE">9</SimpleData>
+		<SimpleData name="a0_square_meters">4871.39289628807</SimpleData>
+		<SimpleData name="AREASQM2">4871.39289628807</SimpleData>
+		<SimpleData name="AREASQM_PCT">100</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-69.9204297833397,18.4668281803544 -69.9202265541277,18.4671680644789 -69.9198164811009,18.4671700550219 -69.9196096388959,18.4668321613621 -69.919812868991,18.4664922778515 -69.920222940408,18.4664902873867 -69.9204297833397,18.4668281803544</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>10</name>
+	<description>10</description>
+	<Style><LineStyle><color>FF0000ff</color><width>2.83464</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#cuadricula_final_para_googlemaps">
+		<SimpleData name="fid">10</SimpleData>
+		<SimpleData name="left">402817.136965851</SimpleData>
+		<SimpleData name="top">2042049.625</SimpleData>
+		<SimpleData name="right">402903.73950623</SimpleData>
+		<SimpleData name="bottom">2041974.625</SimpleData>
+		<SimpleData name="ENLACE">10</SimpleData>
+		<SimpleData name="a0_square_meters">4871.39289628807</SimpleData>
+		<SimpleData name="AREASQM2">4871.39289628807</SimpleData>
+		<SimpleData name="AREASQM_PCT">100</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-69.9204264098516,18.4661955884168 -69.9202231813178,18.4665354725277 -69.9198131097935,18.4665374629977 -69.9196062684127,18.4661995692786 -69.9198094978295,18.4658596857815 -69.9202195677441,18.4658576953897 -69.9204264098516,18.4661955884168</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>11</name>
+	<description>11</description>
+	<Style><LineStyle><color>FF0000ff</color><width>2.83464</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#cuadricula_final_para_googlemaps">
+		<SimpleData name="fid">11</SimpleData>
+		<SimpleData name="left">402817.136965851</SimpleData>
+		<SimpleData name="top">2041979.625</SimpleData>
+		<SimpleData name="right">402903.73950623</SimpleData>
+		<SimpleData name="bottom">2041904.625</SimpleData>
+		<SimpleData name="ENLACE">11</SimpleData>
+		<SimpleData name="a0_square_meters">4871.39289628807</SimpleData>
+		<SimpleData name="AREASQM2">4871.39289628807</SimpleData>
+		<SimpleData name="AREASQM_PCT">100</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-69.9204230364997,18.4655629964364 -69.9202198086441,18.4659028805337 -69.9198097386222,18.4659048709308 -69.9196028980655,18.4655669771523 -69.9198061268041,18.4652270936687 -69.9202161952164,18.4652251033499 -69.9204230364997,18.4655629964364</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>12</name>
+	<description>12</description>
+	<Style><LineStyle><color>FF0000ff</color><width>2.83464</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#cuadricula_final_para_googlemaps">
+		<SimpleData name="fid">12</SimpleData>
+		<SimpleData name="left">402877.088871135</SimpleData>
+		<SimpleData name="top">2042227.125</SimpleData>
+		<SimpleData name="right">402963.691411514</SimpleData>
+		<SimpleData name="bottom">2042152.125</SimpleData>
+		<SimpleData name="ENLACE">12</SimpleData>
+		<SimpleData name="a0_square_meters">4871.39289628714</SimpleData>
+		<SimpleData name="AREASQM2">4851.08209516853</SimpleData>
+		<SimpleData name="AREASQM_PCT">99.5830596802386</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-69.9198672038751,18.4678024171921 -69.9196639724709,18.4681423007775 -69.9192538970644,18.4681442902044 -69.9190470546721,18.4678063959678 -69.9192502869594,18.4674665129962 -69.919660360756,18.4674645236474 -69.9198672038751,18.4678024171921</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>13</name>
+	<description>13</description>
+	<Style><LineStyle><color>FF0000ff</color><width>2.83464</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#cuadricula_final_para_googlemaps">
+		<SimpleData name="fid">13</SimpleData>
+		<SimpleData name="left">402877.088871135</SimpleData>
+		<SimpleData name="top">2042157.125</SimpleData>
+		<SimpleData name="right">402963.691411514</SimpleData>
+		<SimpleData name="bottom">2042082.125</SimpleData>
+		<SimpleData name="ENLACE">13</SimpleData>
+		<SimpleData name="a0_square_meters">4871.39289628714</SimpleData>
+		<SimpleData name="AREASQM2">4871.39289628714</SimpleData>
+		<SimpleData name="AREASQM_PCT">100</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-69.919863832258,18.4671698252191 -69.9196606015321,18.467509708791 -69.9192505276283,18.467511698145 -69.9190436860601,18.467173803849 -69.9192469176691,18.4668339208909 -69.9196569899631,18.4668319316151 -69.919863832258,18.4671698252191</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>14</name>
+	<description>14</description>
+	<Style><LineStyle><color>FF0000ff</color><width>2.83464</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#cuadricula_final_para_googlemaps">
+		<SimpleData name="fid">14</SimpleData>
+		<SimpleData name="left">402877.088871135</SimpleData>
+		<SimpleData name="top">2042087.125</SimpleData>
+		<SimpleData name="right">402963.691411514</SimpleData>
+		<SimpleData name="bottom">2042012.125</SimpleData>
+		<SimpleData name="ENLACE">14</SimpleData>
+		<SimpleData name="a0_square_meters">4871.39289628714</SimpleData>
+		<SimpleData name="AREASQM2">4871.39289628714</SimpleData>
+		<SimpleData name="AREASQM_PCT">100</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-69.9198604607771,18.4665372332033 -69.9196572307295,18.4668771167616 -69.9192471583281,18.4668791060427 -69.9190403175842,18.4665412116874 -69.9192435485148,18.4662013287429 -69.9196536193064,18.4661993395399 -69.9198604607771,18.4665372332033</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>15</name>
+	<description>15</description>
+	<Style><LineStyle><color>FF0000ff</color><width>2.83464</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#cuadricula_final_para_googlemaps">
+		<SimpleData name="fid">15</SimpleData>
+		<SimpleData name="left">402877.088871135</SimpleData>
+		<SimpleData name="top">2042017.125</SimpleData>
+		<SimpleData name="right">402963.691411514</SimpleData>
+		<SimpleData name="bottom">2041942.125</SimpleData>
+		<SimpleData name="ENLACE">15</SimpleData>
+		<SimpleData name="a0_square_meters">4871.39289628714</SimpleData>
+		<SimpleData name="AREASQM2">4871.39289628714</SimpleData>
+		<SimpleData name="AREASQM_PCT">100</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-69.9198570894324,18.4659046411448 -69.9196538600631,18.4662445246896 -69.9192437891642,18.4662465138977 -69.9190369492443,18.465908619483 -69.9192401794966,18.465568736552 -69.9196502487858,18.465566747422 -69.9198570894324,18.4659046411448</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>16</name>
+	<description>16</description>
+	<Style><LineStyle><color>FF0000ff</color><width>2.83464</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#cuadricula_final_para_googlemaps">
+		<SimpleData name="fid">16</SimpleData>
+		<SimpleData name="left">402877.088871135</SimpleData>
+		<SimpleData name="top">2041947.125</SimpleData>
+		<SimpleData name="right">402963.691411514</SimpleData>
+		<SimpleData name="bottom">2041872.125</SimpleData>
+		<SimpleData name="ENLACE">16</SimpleData>
+		<SimpleData name="a0_square_meters">4871.39289628714</SimpleData>
+		<SimpleData name="AREASQM2">2423.62834706646</SimpleData>
+		<SimpleData name="AREASQM_PCT">49.7522659055831</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-69.9198537182238,18.4652720490435 -69.9196504895327,18.4656119325747 -69.9192404201362,18.4656139217099 -69.9190335810404,18.4652760272358 -69.9192368106144,18.4649361443185 -69.9196468784013,18.4649341552613 -69.9198537182238,18.4652720490435</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>17</name>
+	<description>17</description>
+	<Style><LineStyle><color>FF0000ff</color><width>2.83464</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#cuadricula_final_para_googlemaps">
+		<SimpleData name="fid">17</SimpleData>
+		<SimpleData name="left">402937.040776419</SimpleData>
+		<SimpleData name="top">2042259.625</SimpleData>
+		<SimpleData name="right">403023.643316798</SimpleData>
+		<SimpleData name="bottom">2042184.625</SimpleData>
+		<SimpleData name="ENLACE">17</SimpleData>
+		<SimpleData name="a0_square_meters">4871.39289628901</SimpleData>
+		<SimpleData name="AREASQM2">3965.72097794153</SimpleData>
+		<SimpleData name="AREASQM_PCT">81.4083581918138</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-69.9193010078054,18.4680988753854 -69.9190977749357,18.4684387584172 -69.9186876987595,18.4684407466499 -69.918480857063,18.4681028517727 -69.9186840908158,18.4677629693549 -69.9190941653821,18.4677609812002 -69.9193010078054,18.4680988753854</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>18</name>
+	<description>18</description>
+	<Style><LineStyle><color>FF0000ff</color><width>2.83464</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#cuadricula_final_para_googlemaps">
+		<SimpleData name="fid">18</SimpleData>
+		<SimpleData name="left">402937.040776419</SimpleData>
+		<SimpleData name="top">2042189.625</SimpleData>
+		<SimpleData name="right">403023.643316798</SimpleData>
+		<SimpleData name="bottom">2042114.625</SimpleData>
+		<SimpleData name="ENLACE">18</SimpleData>
+		<SimpleData name="a0_square_meters">4871.39289628901</SimpleData>
+		<SimpleData name="AREASQM2">4871.39289628901</SimpleData>
+		<SimpleData name="AREASQM_PCT">100</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-69.9192976382054,18.4674662833313 -69.9190944060141,18.4678061663496 -69.9186843313405,18.4678081545094 -69.9184774904682,18.4674702595729 -69.9186807235426,18.4671303771685 -69.9190907966063,18.4671283890868 -69.9192976382054,18.4674662833313</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>19</name>
+	<description>19</description>
+	<Style><LineStyle><color>FF0000ff</color><width>2.83464</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#cuadricula_final_para_googlemaps">
+		<SimpleData name="fid">19</SimpleData>
+		<SimpleData name="left">402937.040776419</SimpleData>
+		<SimpleData name="top">2042119.625</SimpleData>
+		<SimpleData name="right">403023.643316798</SimpleData>
+		<SimpleData name="bottom">2042044.625</SimpleData>
+		<SimpleData name="ENLACE">19</SimpleData>
+		<SimpleData name="a0_square_meters">4871.39289628901</SimpleData>
+		<SimpleData name="AREASQM2">4871.39289628901</SimpleData>
+		<SimpleData name="AREASQM_PCT">100</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-69.9192942687416,18.4668336912344 -69.9190910372286,18.4671735742392 -69.9186809640576,18.4671755623261 -69.9184741240093,18.4668376673302 -69.9186773564053,18.4664977849394 -69.9190874279665,18.4664957969305 -69.9192942687416,18.4668336912344</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>20</name>
+	<description>20</description>
+	<Style><LineStyle><color>FF0000ff</color><width>2.83464</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#cuadricula_final_para_googlemaps">
+		<SimpleData name="fid">20</SimpleData>
+		<SimpleData name="left">402937.040776419</SimpleData>
+		<SimpleData name="top">2042049.625</SimpleData>
+		<SimpleData name="right">403023.643316798</SimpleData>
+		<SimpleData name="bottom">2041974.625</SimpleData>
+		<SimpleData name="ENLACE">20</SimpleData>
+		<SimpleData name="a0_square_meters">4871.39289628901</SimpleData>
+		<SimpleData name="AREASQM2">4871.39289628901</SimpleData>
+		<SimpleData name="AREASQM_PCT">100</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-69.9192908994138,18.4662010990948 -69.9190876685792,18.466540982086 -69.9186775969106,18.4665429701 -69.9184707576865,18.4662050750448 -69.9186739894041,18.4658651926675 -69.9190840594629,18.4658632047315 -69.9192908994138,18.4662010990948</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>21</name>
+	<description>21</description>
+	<Style><LineStyle><color>FF0000ff</color><width>2.83464</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#cuadricula_final_para_googlemaps">
+		<SimpleData name="fid">21</SimpleData>
+		<SimpleData name="left">402937.040776419</SimpleData>
+		<SimpleData name="top">2041979.625</SimpleData>
+		<SimpleData name="right">403023.643316798</SimpleData>
+		<SimpleData name="bottom">2041904.625</SimpleData>
+		<SimpleData name="ENLACE">21</SimpleData>
+		<SimpleData name="a0_square_meters">4871.39289628901</SimpleData>
+		<SimpleData name="AREASQM2">3782.10502254311</SimpleData>
+		<SimpleData name="AREASQM_PCT">77.6390881019737</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-69.9192875302221,18.4655685069124 -69.9190843000658,18.46590838989 -69.9186742298997,18.4659103778312 -69.9184673914996,18.4655724827167 -69.9186706225388,18.4652326003529 -69.9190806910953,18.4652306124898 -69.9192875302221,18.4655685069124</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>22</name>
+	<description>22</description>
+	<Style><LineStyle><color>FF0000ff</color><width>2.83464</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#cuadricula_final_para_googlemaps">
+		<SimpleData name="fid">22</SimpleData>
+		<SimpleData name="left">402996.992681703</SimpleData>
+		<SimpleData name="top">2042227.125</SimpleData>
+		<SimpleData name="right">403083.595222081</SimpleData>
+		<SimpleData name="bottom">2042152.125</SimpleData>
+		<SimpleData name="ENLACE">22</SimpleData>
+		<SimpleData name="a0_square_meters">4871.39289628807</SimpleData>
+		<SimpleData name="AREASQM2">4871.39289628807</SimpleData>
+		<SimpleData name="AREASQM_PCT">100</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-69.9187316826878,18.4678079249818 -69.9185284489825,18.4681478074473 -69.9181183734319,18.4681497944181 -69.9179115331965,18.4678118988453 -69.9181147677848,18.4674720169937 -69.9185248417255,18.467470030101 -69.9187316826878,18.4678079249818</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>23</name>
+	<description>23</description>
+	<Style><LineStyle><color>FF0000ff</color><width>2.83464</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#cuadricula_final_para_googlemaps">
+		<SimpleData name="fid">23</SimpleData>
+		<SimpleData name="left">402996.992681703</SimpleData>
+		<SimpleData name="top">2042157.125</SimpleData>
+		<SimpleData name="right">403083.595222081</SimpleData>
+		<SimpleData name="bottom">2042082.125</SimpleData>
+		<SimpleData name="ENLACE">23</SimpleData>
+		<SimpleData name="a0_square_meters">4871.39289628807</SimpleData>
+		<SimpleData name="AREASQM2">4871.39289628807</SimpleData>
+		<SimpleData name="AREASQM_PCT">100</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-69.9187283152313,18.4671753328069 -69.9185250822045,18.4675152152589 -69.9181150081565,18.4675172021569 -69.9179081687452,18.4671793065248 -69.918111402655,18.4668394246866 -69.9185214750932,18.4668374378667 -69.9187283152313,18.4671753328069</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>24</name>
+	<description>24</description>
+	<Style><LineStyle><color>FF0000ff</color><width>2.83464</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#cuadricula_final_para_googlemaps">
+		<SimpleData name="fid">24</SimpleData>
+		<SimpleData name="left">402996.992681703</SimpleData>
+		<SimpleData name="top">2042087.125</SimpleData>
+		<SimpleData name="right">403083.595222081</SimpleData>
+		<SimpleData name="bottom">2042012.125</SimpleData>
+		<SimpleData name="ENLACE">24</SimpleData>
+		<SimpleData name="a0_square_meters">4871.39289628807</SimpleData>
+		<SimpleData name="AREASQM2">4871.39289628807</SimpleData>
+		<SimpleData name="AREASQM_PCT">100</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-69.9187249479109,18.4665427405892 -69.9185217155624,18.4668826230277 -69.9181116430169,18.4668846098529 -69.9179048044297,18.4665467141614 -69.9181080376611,18.4662068323368 -69.9185181085968,18.4662048455897 -69.9187249479109,18.4665427405892</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>25</name>
+	<description>25</description>
+	<Style><LineStyle><color>FF0000ff</color><width>2.83464</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#cuadricula_final_para_googlemaps">
+		<SimpleData name="fid">25</SimpleData>
+		<SimpleData name="left">402996.992681703</SimpleData>
+		<SimpleData name="top">2042017.125</SimpleData>
+		<SimpleData name="right">403083.595222081</SimpleData>
+		<SimpleData name="bottom">2041942.125</SimpleData>
+		<SimpleData name="ENLACE">25</SimpleData>
+		<SimpleData name="a0_square_meters">4871.39289628807</SimpleData>
+		<SimpleData name="AREASQM2">4868.11184747983</SimpleData>
+		<SimpleData name="AREASQM_PCT">99.9326465986608</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-69.9187215807265,18.4659101483288 -69.9185183490564,18.4662500307538 -69.9181082780133,18.4662520175061 -69.9179014402501,18.4659141217553 -69.9181046728031,18.4655742399442 -69.9185147422364,18.46557225327 -69.9187215807265,18.4659101483288</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>26</name>
+	<description>26</description>
+	<Style><LineStyle><color>FF0000ff</color><width>2.83464</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#cuadricula_final_para_googlemaps">
+		<SimpleData name="fid">26</SimpleData>
+		<SimpleData name="left">403056.944586987</SimpleData>
+		<SimpleData name="top">2042189.625</SimpleData>
+		<SimpleData name="right">403143.547127365</SimpleData>
+		<SimpleData name="bottom">2042114.625</SimpleData>
+		<SimpleData name="ENLACE">26</SimpleData>
+		<SimpleData name="a0_square_meters">4871.39289628994</SimpleData>
+		<SimpleData name="AREASQM2">2479.28534878697</SimpleData>
+		<SimpleData name="AREASQM_PCT">50.8947933695761</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-69.9181621190475,18.4674717876124 -69.9179588845552,18.4678116695107 -69.9175488097375,18.4678136552144 -69.9173419710221,18.4674757589418 -69.9175452063974,18.4671358776575 -69.9179552796052,18.4671338920318 -69.9181621190475,18.4674717876124</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>27</name>
+	<description>27</description>
+	<Style><LineStyle><color>FF0000ff</color><width>2.83464</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#cuadricula_final_para_googlemaps">
+		<SimpleData name="fid">27</SimpleData>
+		<SimpleData name="left">403056.944586987</SimpleData>
+		<SimpleData name="top">2042119.625</SimpleData>
+		<SimpleData name="right">403143.547127365</SimpleData>
+		<SimpleData name="bottom">2042044.625</SimpleData>
+		<SimpleData name="ENLACE">27</SimpleData>
+		<SimpleData name="a0_square_meters">4871.39289628994</SimpleData>
+		<SimpleData name="AREASQM2">2884.32427694555</SimpleData>
+		<SimpleData name="AREASQM_PCT">59.2094363635144</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-69.9181587537442,18.4668391953137 -69.9179555199303,18.4671790771985 -69.9175454466152,18.4671810628295 -69.9173386087238,18.4668431664976 -69.9175418434206,18.4665032852267 -69.9179519151259,18.4665012996738 -69.9181587537442,18.4668391953137</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>28</name>
+	<description>28</description>
+	<Style><LineStyle><color>FF0000ff</color><width>2.83464</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#cuadricula_final_para_googlemaps">
+		<SimpleData name="fid">28</SimpleData>
+		<SimpleData name="left">403056.944586987</SimpleData>
+		<SimpleData name="top">2042049.625</SimpleData>
+		<SimpleData name="right">403143.547127365</SimpleData>
+		<SimpleData name="bottom">2041974.625</SimpleData>
+		<SimpleData name="ENLACE">28</SimpleData>
+		<SimpleData name="a0_square_meters">4871.39289628994</SimpleData>
+		<SimpleData name="AREASQM2">3289.36696828064</SimpleData>
+		<SimpleData name="AREASQM_PCT">67.524156607976</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-69.9181553885768,18.4662066029723 -69.9179521554413,18.4665464848436 -69.9175420836287,18.4665484704018 -69.9173352465613,18.4662105740106 -69.9175384805797,18.4658706927532 -69.9179485507825,18.4658687072731 -69.9181553885768,18.4662066029723</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+</Document></kml>
