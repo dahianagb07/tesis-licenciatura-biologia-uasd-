@@ -1,11 +1,12 @@
 ---
-output: 
-  pdf_document:
-    keep_tex: true
-    fig_caption: true
-    latex_engine: pdflatex
-    template: svm-latex-ms.tex
-    number_sections: true
+output:
+  github_document
+  # pdf_document:
+  #   keep_tex: true
+  #   fig_caption: true
+  #   latex_engine: pdflatex
+  #   # template: svm-latex-ms.tex
+  #   number_sections: true
 title: Tesis de licenciatura en Biología de Dahiana GuzmánDiseño, análisis.
 author:
 - name: Dahiana Guzmán
@@ -31,6 +32,8 @@ header-includes:
     \setcounter{figure}{0}
     \renewcommand{\thefigure}{S\arabic{figure}}
     }
+editor_options: 
+  chunk_output_type: console
 ---
 
 
@@ -42,6 +45,14 @@ Basado en: @jose_ramon_martinez_batlle_2021_5694017
 # Crear cuadrícula para diseño de muestreo
 library(dplyr)
 library(sf)
+```
+
+```{r}
+construir_cuadricula <- T
+```
+
+
+```{r, eval=construir_cuadricula}
 parque <- st_read('data/limite-parque.gpkg') # Creada en QGIS, ver nota abajo
 cuad <- st_read('data/cuadricula.gpkg')
 plot(parque %>% st_geometry)
